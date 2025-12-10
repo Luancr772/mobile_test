@@ -105,7 +105,7 @@ Reactive Programming là cách lập trình dựa trên dòng dữ liệu bất 
 Thay vì pull dữ liệu, ta subscribe vào stream và tự động nhận thông báo mỗi khi dữ liệu thay đổi.
 
 
-## **3.4. What’s the same and the difference between BLoC and MVVM?**
+## **3.4. Can we apply MVVM or BLoC with clean code architecture?**
 
 Clean Architecture thường được kết hợp với MVVM, BLoC, Riverpod để tạo ra cấu trúc code chuẩn mực và dễ bảo trì.
 Tuy nhiên, nếu dự án tương đối nhỏ hay trung bình thì không cần thiết sử dụng clean architecture.
